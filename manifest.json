@@ -1,0 +1,7 @@
+{
+    "name": "IdleTimeout",
+    "version": "1.0.0",
+    "description": "Edit Powercord idle timeout",
+    "author": "relathyme",
+    "license": "MIT"
+}
